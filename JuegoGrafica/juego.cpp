@@ -90,7 +90,6 @@ void dibujarCulebra()
 		   glColor3f(1.0,1.0,1.0);//cuerpo
 		   glRectd(posX[i],posY[i],posX[i]+1,posY[i]+1);	
 	}
-	
 	if(posX[0]==0 || posX[0]==cuadradoX-1 || posY[0] == 0 || posY[0] ==cuadradoY-1)
 	{
 		finJuego=true;
