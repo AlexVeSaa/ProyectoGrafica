@@ -20,7 +20,6 @@ void unidad(int,int);
 void dibujarCuadrado()
 {
 	for(int x=0;x<cuadradoX;x++){
-		
 		for(int y=0;y<cuadradoY;y++)
 		{
 			unidad(x,y);
