@@ -66,7 +66,6 @@ void dibujarCulebra()
 		}
 		posX[i] =posX[i-1];
 		posY[i] =posY[i-1];
-		
 		}
 	if(sDireccion==ARRIBA)
 		posY[0]++;
