@@ -95,7 +95,6 @@ void dibujarCulebra()
 		largoDeSerpiente++;
 		if(largoDeSerpiente>MAX)
 			largoDeSerpiente=MAX;
-
 			comida=true;
 	}
 }
