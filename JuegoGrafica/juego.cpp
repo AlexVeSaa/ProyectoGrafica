@@ -40,8 +40,7 @@ void  unidad (int x,int y) //unit
 	}
 	else{
 		//	glLineWidth(1.0);
-		glColor3f(0.0,1.0,1.0); //color del fondo
-		
+		glColor3f(0.0,1.0,1.0); //color del fondo	
 	}
 	glBegin(GL_LINE_LOOP);
 	glVertex2f(x,y);
