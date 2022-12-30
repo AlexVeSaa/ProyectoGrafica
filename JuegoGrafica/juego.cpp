@@ -98,8 +98,6 @@ void dibujarCulebra()
 
 			comida=true;
 	}
-	
-	
 }
 void random( int &x,int &y)
 {
