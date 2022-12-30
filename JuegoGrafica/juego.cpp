@@ -15,7 +15,6 @@ int posX[60]={20,20,20,20,20},posY[60]={20,19,18,17,16};
 void  colorCuadricula(int x, int y)//initgrit
 {
 	cuadradoX=x;
-
 	cuadradoY=y;
 }
 void unidad(int,int);
