@@ -38,7 +38,6 @@ main(int argc,char **argv){
 	return 0;
 	
 }
-	
 		void llamadaMonitor()
 	{
 		glClear(GL_COLOR_BUFFER_BIT);
@@ -49,7 +48,6 @@ main(int argc,char **argv){
 		if(finJuego)
 		{
 			char _puntos[10];
-	
 			puntos=atoi(_puntos);
 			char texto[50]= " puntos :";
 			strcat(texto,_puntos);
