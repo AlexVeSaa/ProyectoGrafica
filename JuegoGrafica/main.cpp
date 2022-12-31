@@ -8,7 +8,6 @@
 #define  FILA 40
 #define FPS 10
 using namespace std;
-
 extern short sDireccion;
 bool finJuego = false;
 int puntos=0;
