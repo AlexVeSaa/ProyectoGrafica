@@ -7,7 +7,6 @@
 #define COLUMNAS 40 
 #define  FILA 40
 #define FPS 10
-
 using namespace std;
 
 extern short sDireccion;
