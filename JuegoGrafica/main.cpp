@@ -31,7 +31,6 @@ main(int argc,char **argv){
 	glutSpecialFunc(llamadaTeclado);
 	color();
 	glutMainLoop();
-	
 	return 0;
 }
 		void llamadaMonitor()
