@@ -83,7 +83,6 @@ main(int argc,char **argv){
 				if(sDireccion!=DERECHA)
 					sDireccion=IZQUIERDA;
 				break;
-				
 			}
 			
 		}
