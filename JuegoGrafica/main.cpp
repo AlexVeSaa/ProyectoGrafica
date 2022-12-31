@@ -52,7 +52,6 @@ main(int argc,char **argv){
 			exit(0);
 		}	
 	}
-	
 	void llamadaRemodelado(int ancho,int largo)
 	{
 		glViewport(0,0,(GLsizei)ancho,(GLsizei)largo);//definiendo las coordenadas
