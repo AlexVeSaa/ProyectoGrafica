@@ -53,8 +53,7 @@ main(int argc,char **argv){
 			MessageBox(NULL,texto,"Perdiste",0);
 			exit(0);
 		}
-		
-		
+			
 	}
 	
 	void llamadaRemodelado(int ancho,int largo)
