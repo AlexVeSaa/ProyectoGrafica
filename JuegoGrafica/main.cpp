@@ -24,9 +24,6 @@ void color()
 	colorCuadricula(COLUMNAS,FILA);
 }
 main(int argc,char **argv){
-	
-	
-	
 	glutInit(&argc,argv);
 	glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);//iniciando modo de visualizacion
 	glutInitWindowSize(500,500);// posicionamiento de la ventana
