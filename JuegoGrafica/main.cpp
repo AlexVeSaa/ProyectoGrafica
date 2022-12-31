@@ -84,5 +84,4 @@ main(int argc,char **argv){
 					sDireccion=IZQUIERDA;
 				break;
 			}
-			
 		}
