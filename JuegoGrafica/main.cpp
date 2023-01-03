@@ -2,6 +2,7 @@
 #include<Gl/glut.h>
 #include"juego.h"
 #include<stdlib.h> 
+
 #include <string>
 #include<iostream>
 #define COLUMNAS 40 
