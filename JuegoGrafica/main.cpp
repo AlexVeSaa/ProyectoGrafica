@@ -34,7 +34,6 @@ main(int argc,char **argv){
 	glutMainLoop();
 	return 0;
 }
-
 		void llamadaMonitor()
 	{
 		glClear(GL_COLOR_BUFFER_BIT);
