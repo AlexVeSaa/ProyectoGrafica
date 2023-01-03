@@ -56,7 +56,6 @@ void alimento()
 	glRectd(comidaX,comidaY,comidaX+ 1,comidaY+1);
 }
 void dibujarCulebra()
-
 {
 	for(int i =largoDeSerpiente-1;i>0;i--)
 		{
