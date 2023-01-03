@@ -16,6 +16,7 @@ void llamadaMonitor();
 void llamadaRemodelado(int,int);
 void llamadaTeclado(int,int,int);
 void color()
+	
 {
 	glClearColor(0.0,0.0,0.0,1.0);
 	colorCuadricula(COLUMNAS,FILA);
