@@ -63,7 +63,6 @@ main(int argc,char **argv){
 		glutTimerFunc(1000/FPS,llamadaTiempo,0);
 	}
 		void llamadaTeclado(int tecla ,int,int){
-			
 			switch(tecla)
 			{
 			case GLUT_KEY_UP:
