@@ -74,7 +74,6 @@ void dibujarCulebra()
 	else if(sDireccion==IZQUIERDA)
 		posX[0]--;
 	for(int i=0; i <largoDeSerpiente;i++){
-		
 		if(i==0)
 		{
 		glColor3f(0.1,0.0,1.0);	
