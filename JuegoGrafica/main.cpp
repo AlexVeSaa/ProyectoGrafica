@@ -52,6 +52,7 @@ main(int argc,char **argv){
 	}
 	void llamadaRemodelado(int ancho,int largo)
 	{
+		
 		glViewport(0,0,(GLsizei)ancho,(GLsizei)largo);//definiendo las coordenadas
 		glMatrixMode(GL_PROJECTION);
 		glLoadIdentity();
