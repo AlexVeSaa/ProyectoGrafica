@@ -27,6 +27,7 @@ main(int argc,char **argv){
 	glutCreateWindow("culebrita de tomas");//Nombre de la ventana
 	glutDisplayFunc(llamadaMonitor);
 	glutReshapeFunc(llamadaRemodelado);
+	
 	glutTimerFunc(0,llamadaTiempo,0);
 	glutSpecialFunc(llamadaTeclado);
 	color();
