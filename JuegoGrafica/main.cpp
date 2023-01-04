@@ -50,6 +50,7 @@ main(int argc,char **argv){
 			exit(0);
 		}	
 	}
+
 	void llamadaRemodelado(int ancho,int largo)
 	{
 		
