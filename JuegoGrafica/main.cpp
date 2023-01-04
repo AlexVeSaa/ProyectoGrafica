@@ -84,6 +84,7 @@ main(int argc,char **argv){
 				break;
 				
 			case GLUT_KEY_LEFT:
+					
 				if(sDireccion!=DERECHA)
 					sDireccion=IZQUIERDA;
 				break;
