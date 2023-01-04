@@ -1,6 +1,5 @@
 #ifndef GAME_H_INCLUDED
 #define GAME_H_INCLUDED
-
 #define ARRIBA 1
 #define ABAJO  -1
 #define DERECHA 2
