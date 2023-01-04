@@ -59,6 +59,7 @@ main(int argc,char **argv){
 		glOrtho(0.0,COLUMNAS,0.0,FILA,-1.0,1.0);
 		glMatrixMode(GL_MODELVIEW);
 	}
+
 	void llamadaTiempo(int){	
 		glutPostRedisplay();
 		glutTimerFunc(1000/FPS,llamadaTiempo,0);
