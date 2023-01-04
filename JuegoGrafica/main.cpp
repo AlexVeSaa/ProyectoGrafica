@@ -40,6 +40,7 @@ main(int argc,char **argv){
 		dibujarCulebra();
 		alimento();
 		glutSwapBuffers();
+			
 		if(finJuego)
 		{
 			char _puntos[10];
