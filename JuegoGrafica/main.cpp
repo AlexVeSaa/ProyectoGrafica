@@ -67,6 +67,7 @@ main(int argc,char **argv){
 		void llamadaTeclado(int tecla ,int,int){
 			switch(tecla)
 			{
+					
 			case GLUT_KEY_UP:
 				if(sDireccion!=ABAJO)
 					sDireccion=ARRIBA;
