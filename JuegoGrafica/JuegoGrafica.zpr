@@ -211,6 +211,7 @@ libraries=
 libs_to_use=
 strip_executable=0
 console_program=1
+
 dont_generate_exe=0
 [custom_tools]
 [end]
