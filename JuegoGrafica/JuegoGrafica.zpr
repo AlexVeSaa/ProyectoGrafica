@@ -157,13 +157,9 @@ args=
 exec_method=0
 exec_script=
 env_vars=
-
 wait_for_key=0
-
 temp_folder=debug.mac
-
 output_file=${TEMP_DIR}/JuegoGrafica.bin
-
 icon_file=
 manifest_file=
 compiling_extra=-Wno-deprecated-declarations
