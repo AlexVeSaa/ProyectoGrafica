@@ -47,6 +47,7 @@ enable_lto=0
 headers_dirs=
 linking_extra=
 libraries_dirs=
+
 libraries=GL,GLU,glut
 libs_to_use=
 strip_executable=0
