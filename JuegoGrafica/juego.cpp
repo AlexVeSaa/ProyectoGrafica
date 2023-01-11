@@ -95,6 +95,7 @@ void dibujarCulebra()
 			largoDeSerpiente=MAX;
 			comida=true;
 	}
+	
 }
 void random( int &x,int &y)
 {
