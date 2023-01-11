@@ -36,6 +36,7 @@ icon_file=
 manifest_file=
 compiling_extra=
 macros=
+
 warnings_level=1
 warnings_as_errors=0
 pedantic_errors=0
