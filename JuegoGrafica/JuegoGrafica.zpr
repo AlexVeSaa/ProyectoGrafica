@@ -145,6 +145,7 @@ linking_extra=
 libraries_dirs=${MINGW_DIR}\OpenGl\lib
 libraries=freeglut_static, glu32, opengl32, winmm, gdi32
 libs_to_use=
+
 strip_executable=2
 console_program=1
 dont_generate_exe=0
