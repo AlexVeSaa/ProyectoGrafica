@@ -9,6 +9,7 @@ default_fext_header=h
 autocomp_extra=OpenGL_gl OpenGL_glu OpenGL_glut OpenGL_glx
 active_configuration=Debug_Win32
 version_saved=20191006
+
 version_required=20180216
 tab_width=4
 tab_use_spaces=0
